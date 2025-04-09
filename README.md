@@ -7,3 +7,5 @@ Why won't you commit?
 =======
  Änderungsantrag 
 >>>>>>> 68de7fb6004b3610b7eeb8c549a9e169c0d70d0c
+
+This is a commit from R Studio
